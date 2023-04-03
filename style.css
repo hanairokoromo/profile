@@ -47,3 +47,28 @@ nav{
     background-size: cover;
     background-position: center;
 }
+
+.about-heading{
+    margin: 0 auto;
+    padding: 20px 10px;
+    font-size: 32px;
+    color: #000000;
+    text-align: center;
+}
+
+.about-content{
+    display: flex;
+    justify-content: center;
+}
+
+.about-img{
+    background-image: url(img/about.jpg);
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+}
+
+.about-text{
+    display: inline-block;
+    padding: 10px 10px 10px 10px;
+}
