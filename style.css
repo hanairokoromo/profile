@@ -103,3 +103,10 @@ li img{
 h3{
     font-size: 20px;
 }
+
+footer{
+    font-size: 10px;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+}
